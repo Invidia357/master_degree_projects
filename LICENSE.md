@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-This repository and its contents (including all code, documentation, and assets in the "AI" and "Cybersecurity" folders) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+This repository and its contents (including all code, documentation, and assets in the folders) are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You are free to:
 
